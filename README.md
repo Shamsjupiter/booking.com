@@ -1,2 +1,2 @@
 # booking.com
-This project his based on the travel booking. The user can book the hotels,fligth, train, bus, car rental
+This project is based on travel booking. The user can book hotels, flights, trains, buses and car rentals
